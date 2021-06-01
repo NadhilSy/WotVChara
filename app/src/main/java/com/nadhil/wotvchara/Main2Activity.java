@@ -25,7 +25,7 @@ public class Main2Activity extends YouTubeBaseActivity  {
     YouTubePlayerView mVid;
 
 
-    private final String API_KEY = "";
+    private final String API_KEY = ""; //generate key milik sendiri
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
